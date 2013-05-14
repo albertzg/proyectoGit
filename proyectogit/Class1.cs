@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace proyectogit
 {
-    class toco
+    class Class1
     {
-
-
-        int tico;
     }
 }
